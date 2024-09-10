@@ -103,6 +103,7 @@ Korem, Suez, Zeevi, Weinberger et al. 2015, https://dx.doi.org/10.1126%2Fscience
 
 <img src="assets/fig2bc.png" width="80%">
 
+DM38 medium (Venturelli lab), n=882 and 697, respectively
 
 **Nick Bohmann (Gibbons Lab)**, Thomas Gurry (Myota), Ophelia Venturelli (UW-Madison)
 
@@ -110,7 +111,7 @@ Korem, Suez, Zeevi, Weinberger et al. 2015, https://dx.doi.org/10.1126%2Fscience
 
 ## ... and <i>ex vivo</i>
 
-<img src="assets/fig3.png" width="40%"> <img src="assets/fig2def.png" width="50%">
+<img src="assets/exvivos.png" width="90%">
 
 ---
 

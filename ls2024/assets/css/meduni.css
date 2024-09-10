@@ -368,7 +368,7 @@ section.has-dark-background, section.dark {
 .reveal a.logo {
     position: absolute;
     top: 2%;
-    left: 88%;
+    left: calc(98% - 15vh);
     margin: 0;
     width: 15vh;
     height: 14vh;
