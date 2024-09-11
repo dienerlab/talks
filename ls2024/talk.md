@@ -87,9 +87,9 @@ Korem, Suez, Zeevi, Weinberger et al. 2015, https://dx.doi.org/10.1126%2Fscience
 
 ---
 
-## Screen and validate interventions in the gut microbiome
+## Screening and validations
 
-<img src="assets/approach.webp" width="70%">
+<img src="assets/approach.png" width="80%">
 
 ---
 
