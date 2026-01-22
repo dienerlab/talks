@@ -12,7 +12,7 @@ D&FI für Hygiene, Mikrobiologie und Umweltmedizin
 
 <br><br>
 <div class="footer">
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa-solid fa-camera-retro"></i>CC BY-SA 4.0</a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa-solid fa-camera-retro"></i>internal</a>
 <a href="https://dienerlab.com"><i class="fa-solid fa-house-signal"></i></i>dienerlab.com</a>
 <a href="https://github.com/dienerlab"><i class="fa-brands fa-github"></i>dienerlab</a>
 <a href="https://bsky.app/profile/cdiener.com"><i class="fa-brands fa-bluesky"></i></i>@cdiener.com</a>
@@ -50,8 +50,15 @@ Cuparencu et al., 2024 Nature Metabolism, https://doi.org/10.1038/s42255-024-010
 
 <img src="assets/metabolomics.png" width="70%">
 
-Breite Marker schon seit langem im Einsatz (Carnitin, Karotene). Neuer ist die
-Anwendung von Breitspektrum-Methoden (untargeted).
+Einzelne Marker für Labensmittelgruppen schon seit langem im Einsatz (Carnitin, Karotene).
+
+Neuer ist die Anwendung von *Breitspektrum-Methoden* (untargeted, z.B. FoodMAST).
+
+<div class="footnote">
+
+West, Schmid, Gauglitz et al. 2022 NPJ Sci Food, https://doi.org/10.1038/s41538-022-00137-3
+
+</div>
 
 ---
 
@@ -59,8 +66,8 @@ Anwendung von Breitspektrum-Methoden (untargeted).
 
 <img src="assets/poop_hero.png" width="60%">
 
-Stuhlproben enthalten überraschend viele Proteine und DNA von Lebensmitteln. Können
-wir sie potentiell als Biomarker nutzen.
+Stuhlproben enthalten *überraschend* viele *Proteine* und *DNA* von Lebensmitteln. Können
+wir sie potentiell als Biomarker nutzen?
 
 ---
 
@@ -87,6 +94,18 @@ DK Superdock et al. 2025, mSystems, https://doi.org/10.1128/msystems.00158-25
 
 </div>
 
+----
+
+## Dietary plant variety in early life
+
+<img src="assets/david_maturation.jpg" width="80%">
+
+<div class="footnote">
+
+McDonald et al., preprint, https://doi.org/10.1101/2025.02.28.25323117
+
+</div>
+
 ---
 
 ## Metagenomik - DNA von Allem
@@ -99,11 +118,11 @@ DK Superdock et al. 2025, mSystems, https://doi.org/10.1128/msystems.00158-25
 
 <img src="https://imgs.xkcd.com/comics/here_to_help.png" width="50%" style="display: block; margin: 2em auto">
 
-1. Obwohl es relativ große Lebensmitteldatenbanken gibt, gibt es keine Genomdatenbank. Für viele Lebensmittel
-   gibt es noch keine repräsentatives Genom.
+1. Obwohl es relativ große Lebensmitteldatenbanken gibt, gibt es *keine Genomdatenbank*. Für viele Lebensmittel
+   gibt es noch kein repräsentatives Genom.
 
 2. Homologie, evolutionäre Konservierung, und Probenverunreinigung führen zu *sehr vielen*
-   inkorrekten Yuordnungen von bakterieller DNA zu Lebensmitteln. Die naive Methode findet daher
+   inkorrekten Zuordnungen von bakterieller DNA zu Lebensmitteln. Die naive Methode findet daher
    oft *alle* möglichen Lebensmittel in einer Probe.
 
 <div class="footnote">
@@ -122,7 +141,7 @@ Comic von https://xkcd.com/1831/
 
 <div class="footnote">
 
-C Diener et al. 2025, Nature Metabolism, https://doi.org/10.1038/s42255-025-01220-1
+Diener et al., 2025 Nature Metabolism, https://doi.org/10.1038/s42255-025-01220-1
 
 </div>
 
@@ -134,7 +153,7 @@ C Diener et al. 2025, Nature Metabolism, https://doi.org/10.1038/s42255-025-0122
 
 ---
 
-## Identifizierung mit Ködern für falsch Positive
+## Identifizierung mit sekundären Ködern
 
 <img src="assets/fig2.png" width="90%" />
 
@@ -183,6 +202,7 @@ Höhere Korrelation mit Darmmikrobiom als Ernährungsfragebögen (Mantel-Test).
 - hohe Spezifizität (bis auf Speziesebene)
 - quantitativ für Lebensmittel und semi-quantitativ für Nährstoffe
 - schnell und retrospektiv
+- standardisiert
 
 </div>
 
@@ -204,12 +224,8 @@ Höhere Korrelation mit Darmmikrobiom als Ernährungsfragebögen (Mantel-Test).
 <img src="assets/outlook.png" width="100%" style="display: block; margin: auto auto">
 
 
-<div class="footnote">
-
 Mehr dazu: Cuparencu et al., "Integration of modern technologies to advance dietary assessment", 2026 Nature Foods<br>
 verfügbar am Montag 26.01.2016
-
-</div>
 
 ---
 
@@ -217,7 +233,7 @@ verfügbar am Montag 26.01.2016
 
 # Danke! :smile:
 
-<br><br>
+<br>
 
 <div style="display: flex; align-items: center; justify-content: space-evenly">
 
