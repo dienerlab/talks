@@ -12,7 +12,7 @@ D&FI für Hygiene, Mikrobiologie und Umweltmedizin
 
 <br><br>
 <div class="footer">
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa-solid fa-camera-retro"></i>internal</a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa-solid fa-camera-retro"></i>CC BY-SA 4.0</a>
 <a href="https://dienerlab.com"><i class="fa-solid fa-house-signal"></i></i>dienerlab.com</a>
 <a href="https://github.com/dienerlab"><i class="fa-brands fa-github"></i>dienerlab</a>
 <a href="https://bsky.app/profile/cdiener.com"><i class="fa-brands fa-bluesky"></i></i>@cdiener.com</a>
@@ -94,11 +94,11 @@ DK Superdock et al. 2025, mSystems, https://doi.org/10.1128/msystems.00158-25
 
 </div>
 
-----
+---
 
-## Dietary plant variety in early life
+#### Dietary plant variety in early life
 
-<img src="assets/david_maturation.jpg" width="80%">
+<img src="assets/david_maturation.jpg" width="60%">
 
 <div class="footnote">
 
@@ -155,7 +155,7 @@ Diener et al., 2025 Nature Metabolism, https://doi.org/10.1038/s42255-025-01220-
 
 ## Identifizierung mit sekundären Ködern
 
-<img src="assets/fig2.png" width="90%" />
+<img src="assets/fig2.png" width="80%" />
 
 ---
 
@@ -224,7 +224,7 @@ Höhere Korrelation mit Darmmikrobiom als Ernährungsfragebögen (Mantel-Test).
 <img src="assets/outlook.png" width="100%" style="display: block; margin: auto auto">
 
 
-Mehr dazu: Cuparencu et al., "Integration of modern technologies to advance dietary assessment", 2026 Nature Foods<br>
+Mehr dazu: Cuparencu et al., "Integration of modern technologies to advance dietary assessment", 2026 Nature Food<br>
 verfügbar am Montag 26.01.2016
 
 ---
