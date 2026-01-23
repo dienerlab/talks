@@ -50,7 +50,7 @@ Cuparencu et al., 2024 Nature Metabolism, https://doi.org/10.1038/s42255-024-010
 
 <img src="assets/metabolomics.png" width="70%">
 
-Einzelne Marker für Labensmittelgruppen schon seit langem im Einsatz (Carnitin, Karotene).
+Einzelne Marker für Labensmittelgruppen schon seit langem im Einsatz (Carnitin, Carotine).
 
 Neuer ist die Anwendung von *Breitspektrum-Methoden* (untargeted, z.B. FoodMAST).
 
@@ -94,7 +94,7 @@ DK Superdock et al. 2025, mSystems, https://doi.org/10.1128/msystems.00158-25
 
 </div>
 
----
+----
 
 #### Dietary plant variety in early life
 
