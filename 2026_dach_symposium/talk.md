@@ -171,7 +171,7 @@ Diener et al., 2025 Nature Metabolism, https://doi.org/10.1038/s42255-025-01220-
 
 ---
 
-## Lebensmittel-DNA über die menschliche Lebensspanne
+### Lebensmittel-DNA über die menschliche Lebensspanne
 
 <div style="display: flex; align-items: center; justify-content: space-evenly">
 
@@ -188,6 +188,12 @@ Höhere Korrelation mit Darmmikrobiom als Ernährungsfragebögen (Mantel-Test).
 </div>
 
 </div>
+
+----
+
+### Lebensmittel-DNA in METACARDIS
+
+<img src="assets/fig5.png" width="70%">
 
 ---
 
