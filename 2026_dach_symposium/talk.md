@@ -223,9 +223,12 @@ Höhere Korrelation mit Darmmikrobiom als Ernährungsfragebögen (Mantel-Test).
 
 <img src="assets/outlook.png" width="100%" style="display: block; margin: auto auto">
 
+<div class="footnote">
 
 Mehr dazu: Cuparencu et al., "Integration of modern technologies to advance dietary assessment", 2026 Nature Food<br>
 verfügbar am Montag 26.01.2016
+
+</div>
 
 ---
 
